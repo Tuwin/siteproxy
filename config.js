@@ -7,7 +7,7 @@ const {CookieAccessInfo, CookieJar, Cookie} = cookiejar
 
 let config = {
     httpprefix: 'https', port: 443,
-    serverName: 'cloud.freedombin.tk',
+    serverName: 'cloud.privacynom.cf',
 }
 let blockedSites = ['www.chase.com'] // accessing to chase.com was reported by google
 
